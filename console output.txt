@@ -1,0 +1,4 @@
+iPhone   total quantity: 1   total cost: 5000000
+banana   total quantity: 26   total cost: 104000
+peach   total quantity: 8   total cost: 272000
+mango   total quantity: 44   total cost: 29040000
